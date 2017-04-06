@@ -1,6 +1,8 @@
 # vue-typeahead
 
-> A Vue.js project
+![](demo.gif)
+
+http://qiita.com/acro5piano/items/13456f2c3d5ee64844c2
 
 ## Build Setup
 
